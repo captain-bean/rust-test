@@ -1,3 +1,3 @@
 fn helloWorld() {
-    out("Hello, world!")
+    out(r#"Hello, world!"#)
 }
